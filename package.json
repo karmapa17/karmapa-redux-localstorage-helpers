@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/karmapa17/karmapa-redux-localstorage-helper#readme",
   "dependencies": {
+    "immutable": "3.8.1",
     "lodash.get": "4.4.2"
   },
   "devDependencies": {
