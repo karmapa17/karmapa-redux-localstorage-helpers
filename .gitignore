@@ -3,8 +3,6 @@
 .DS_Store
 node_modules
 npm-debug.log
-dist/
-zips/
 .nyc_output
 coverage
 package-lock.json
